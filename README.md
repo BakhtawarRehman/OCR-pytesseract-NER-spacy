@@ -1,0 +1,1 @@
+# OCR-pytesseract-NER-spacy
